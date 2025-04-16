@@ -13,11 +13,16 @@
 
 ✔ Responsive UI 
 
-
 🛠 Tech Stack
+
 Frontend	Backend	Extras
+
 React.js	Node.js	Redux Toolkit
+
 Redux Toolkit	Express.js	JWT Authentication
+
 Material-UI	MongoDB	Bcrypt (Hashing)
+
 Axios (HTTP)	Mongoose (ODM)	Nodemailer (Email)
-React Router	Socket.io (Optional)	Cloudinary (Files)
+
+React Router

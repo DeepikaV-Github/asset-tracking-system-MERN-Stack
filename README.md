@@ -1,13 +1,18 @@
 # asset-tracking-system-MERN-Stack
 ✨ Features
+
 ✔ User Authentication (JWT + Protected Routes)
 
 ✔ Redux Toolkit for state management
+
 ✔ Password Hashing (bcrypt.js)
+
 ✔ Task CRUD Operations (Create, Read, Update, Delete)
+
 ✔ Email Notifications (Nodemailer)
-✔ Responsive UI (Material-UI or Tailwind CSS)
-✔ Real-time Updates (Socket.io optional)
+
+✔ Responsive UI 
+
 
 🛠 Tech Stack
 Frontend	Backend	Extras
